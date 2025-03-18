@@ -1,4 +1,4 @@
-# CodSoft_AmanAhmed
+# **CodSoft Internships Tasks**
 
 # 🎥 Task 1: Movie Recommendation System  
 
