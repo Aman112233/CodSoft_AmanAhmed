@@ -28,8 +28,8 @@ This project implements a **Face Detection and Recognition System** that detects
 ## 📌 Features  
 ✅ **Face Detection** – Detects faces in images using OpenCV’s Haar cascade model.  
 ✅ **Face Recognition** – Compares detected faces against known images using deep learning-based face encodings.  
-✅ **Real-Time Processing** – Can process face recognition from video frames.  
 ✅ **Efficient & Scalable** – Works with multiple faces in an image or video feed.  
+✅ **Image-Based Processing** – Works with images but can be extended to real-time video processing.
 
 ## 🛠 Technologies Used  
 - **Python**  
