@@ -18,4 +18,21 @@ This repository contains a **Movie Recommendation System** that suggests movies 
 - **Python**  
 - **Pandas** – Data handling and preprocessing  
 - **NumPy** – Numerical computations  
-- **Scikit-Learn** – TF-IDF vectorization and similarity calculations  
+- **Scikit-Learn** – TF-IDF vectorization and similarity calculations
+
+---
+
+# 🏆 Task 2: Face Detection and Recognition  
+This project implements a **Face Detection and Recognition System** that detects faces in images and recognizes known faces using **OpenCV** and **face_recognition**.  
+
+## 📌 Features  
+✅ **Face Detection** – Detects faces in images using OpenCV’s Haar cascade model.  
+✅ **Face Recognition** – Compares detected faces against known images using deep learning-based face encodings.  
+✅ **Real-Time Processing** – Can process face recognition from video frames.  
+✅ **Efficient & Scalable** – Works with multiple faces in an image or video feed.  
+
+## 🛠 Technologies Used  
+- **Python**  
+- **OpenCV** – Used for image processing and Haar cascade face detection.  
+- **face_recognition** – A deep-learning-based library for face encoding and comparison.  
+
