@@ -1,4 +1,4 @@
-# **CodSoft Internships Tasks**
+# **CodSoft Internship Tasks**
 
 # 🎥 Task 1: Movie Recommendation System  
 
