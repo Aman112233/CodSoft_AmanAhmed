@@ -1,6 +1,6 @@
 # CodSoft_AmanAhmed
 
-# 🎥 Movie Recommendation System  
+# 🎥 Task 1: Movie Recommendation System  
 
 This repository contains a **Movie Recommendation System** that suggests movies using both **content-based filtering** and **collaborative filtering**. It utilizes the **IMDB Movies Dataset** from Kaggle to generate personalized recommendations based on genres, ratings, and other features.  
 
