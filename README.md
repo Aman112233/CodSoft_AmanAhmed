@@ -22,7 +22,7 @@ This repository contains a **Movie Recommendation System** that suggests movies 
 
 ---
 
-# 🏆 Task 2: Face Detection and Recognition  
+# 🧑‍💻 Task 2: Face Detection and Recognition  
 This project implements a **Face Detection and Recognition System** that detects faces in images and recognizes known faces using **OpenCV** and **face_recognition**.  
 
 ## 📌 Features  
@@ -36,3 +36,18 @@ This project implements a **Face Detection and Recognition System** that detects
 - **OpenCV** – Used for image processing and Haar cascade face detection.  
 - **face_recognition** – A deep-learning-based library for face encoding and comparison.  
 
+---
+
+# 🤖 Task 3: Simple Rule-Based Chatbot
+This repository contains a simple rule-based chatbot that responds to user inputs based on predefined rules and patterns. It uses basic natural language processing (NLP) techniques, including pattern matching with regular expressions, to provide relevant responses to various user queries.
+
+## 📌 Features  
+✅ **Pattern Matching** – Matches user inputs with predefined patterns to provide appropriate responses.  
+✅ **Predefined Responses** – Responds to greetings, jokes, farewells, and general queries based on simple rules.  
+✅ **Multiple Conversations** – Capable of handling a variety of interactions, including friendly conversations, jokes, and informational queries.  
+✅ **Exit Option** – Allows the user to end the conversation by typing 'exit'.  
+✅ **Simple and Interactive** – A basic implementation for beginners in NLP and chatbot development.
+
+## 🛠 Technologies Used
+- **Python 3.x** – The base language used to develop the chatbot.
+- **re (Regular Expressions)** – Used for pattern matching and detecting user input queries.
